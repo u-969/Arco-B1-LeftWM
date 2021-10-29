@@ -31,12 +31,12 @@ echo
 
 	arcolinuxVersion='v21.11.04'
 
-	isoLabel='arcolinuxb-'$desktop'-'$arcolinuxVersion'-x86_64.iso'
+	isoLabel='arcolinuxb1-'$desktop'-'$arcolinuxVersion'-x86_64.iso'
 
 	# setting of the general parameters
 	archisoRequiredVersion="archiso 58-2"
-	buildFolder=$HOME"/arcolinuxb-build"
-	outFolder=$HOME"/ArcoLinuxB-Out"
+	buildFolder=$HOME"/arcolinuxb1-build"
+	outFolder=$HOME"/ArcoLinuxB1-Out"
 	archisoVersion=$(sudo pacman -Q archiso)
 
 	echo "################################################################## "

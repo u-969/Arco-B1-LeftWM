@@ -471,7 +471,7 @@ conky-lua-archers
 downgrade
 #font-manager-git
 #glxinfo
-#gitahead-bin
+gitahead-bin
 grub-customizer
 hardcode-fixer-git
 inxi
@@ -488,7 +488,7 @@ python-pyparted
 #python-pywal
 #scour
 #screenkey-git
-#sublime-text-4
+sublime-text-4
 #the_platinum_searcher-bin
 #trizen
 urxvt-fullscreen
